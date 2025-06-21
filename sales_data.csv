@@ -1,0 +1,6 @@
+date,product,price,quantity,region
+2024-01-01,Apple,30,10,North
+2024-01-01,Banana,15,20,South
+2024-01-02,Apple,30,8,East
+2024-01-02,Banana,15,15,North
+2024-01-03,Banana,15,25,South
